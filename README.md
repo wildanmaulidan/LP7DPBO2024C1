@@ -4,3 +4,5 @@ Saya Wildan Mauli Darojat mengerjakan LP7 Praktikum mata kuliah DPBO untuk keber
 Alur Program
 
 Ketika program dijalankan game flappy bird akan muncul, kemudian untuk memulai permainan klik/spam menggunakan space. setiap melewati pipa maka akan menerima 1 score yang berada di pojok kiri atas. game akan selesai ketika bird menabrak pipa atau birdnya jatuh. Ketika menabrak tiang atau game over mulai lagi dengan menekan/klik space dan mulai kembali permainan.
+
+![flapy](https://github.com/wildanmaulidan/LP7DPBO2024C1/assets/100844626/89372e49-92cb-4401-a086-052e2aaaa985)
